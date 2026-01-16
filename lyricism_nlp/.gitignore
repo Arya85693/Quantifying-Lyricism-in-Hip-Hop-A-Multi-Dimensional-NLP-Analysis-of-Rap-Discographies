@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project-specific
+*.log
+data/raw/*.log
+outputs/*.log
+outputs/visualization_logs/*.log
+
+# Generated outputs (optional - uncomment if you don't want to track outputs/)
+# outputs/
+
+# Backup files
+*.backup
+*.bak
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

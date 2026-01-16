@@ -1,0 +1,20 @@
+Kendrick Lamar - Top 3 Albums Analysis
+============================================================
+
+Album 1 – Mr. Morale & The Big Steppers
+  Composite Score: 0.596
+  Strengths: Semantic Depth (0.808), Emotional Expressiveness (0.714)
+  Weaknesses: Lexical Complexity (0.453)
+
+Album 2 – untitled unmastered.
+  Composite Score: 0.593
+  Strengths: Semantic Depth (0.798), Narrative Structure (0.658)
+  Weaknesses: Lexical Complexity (0.469)
+
+Album 3 – To Pimp a Butterfly
+  Composite Score: 0.590
+  Strengths: Semantic Depth (0.796), Narrative Structure (0.689)
+  Weaknesses: Lexical Complexity (0.414)
+
+============================================================
+Note: Scores are balanced (60% mean, 40% max)

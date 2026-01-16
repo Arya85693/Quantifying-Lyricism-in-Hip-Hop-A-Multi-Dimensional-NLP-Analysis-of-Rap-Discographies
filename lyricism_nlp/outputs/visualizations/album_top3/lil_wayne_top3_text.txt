@@ -1,0 +1,20 @@
+Lil Wayne - Top 3 Albums Analysis
+============================================================
+
+Album 1 – Dedication 6: Reloaded
+  Composite Score: 0.636
+  Strengths: Semantic Depth (0.794), Narrative Structure (0.669)
+  Weaknesses: Lexical Complexity (0.578)
+
+Album 2 – Tha Carter V (Deluxe)
+  Composite Score: 0.601
+  Strengths: Semantic Depth (0.711), Narrative Structure (0.686)
+  Weaknesses: Lexical Complexity (0.397)
+
+Album 3 – Sorry 4 the Wait 2
+  Composite Score: 0.568
+  Strengths: Semantic Depth (0.708), Emotional Expressiveness (0.685)
+  Weaknesses: Lexical Complexity (0.395)
+
+============================================================
+Note: Scores are balanced (60% mean, 40% max)

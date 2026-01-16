@@ -1,0 +1,20 @@
+Kanye West - Top 3 Albums Analysis
+============================================================
+
+Album 1 – KIDS SEE GHOSTS
+  Composite Score: 0.644
+  Strengths: Emotional Expressiveness (0.734), Rhyme Complexity (0.714)
+  Weaknesses: Lexical Complexity (0.520)
+
+Album 2 – Donda (Deluxe)
+  Composite Score: 0.585
+  Strengths: Semantic Depth (0.707), Narrative Structure (0.705)
+  Weaknesses: Lexical Complexity (0.417)
+
+Album 3 – 808s & Heartbreak
+  Composite Score: 0.575
+  Strengths: Rhyme Complexity (0.688), Narrative Structure (0.687)
+  Weaknesses: Lexical Complexity (0.394)
+
+============================================================
+Note: Scores are balanced (60% mean, 40% max)
