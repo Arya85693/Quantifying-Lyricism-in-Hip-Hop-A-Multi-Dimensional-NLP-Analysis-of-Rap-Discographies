@@ -1,0 +1,20 @@
+Drake - Top 3 Albums Analysis
+============================================================
+
+Album 1 – I Am Not a Human Being II
+  Composite Score: 0.649
+  Strengths: Emotional Expressiveness (0.797), Rhyme Complexity (0.773)
+  Weaknesses: Lexical Complexity (0.316)
+
+Album 2 – #MikeWiLLBeenTriLL
+  Composite Score: 0.648
+  Strengths: Emotional Expressiveness (0.769), Narrative Structure (0.750)
+  Weaknesses: Lexical Complexity (0.492)
+
+Album 3 – Scary Hours 2
+  Composite Score: 0.643
+  Strengths: Semantic Depth (0.838), Rhyme Complexity (0.710)
+  Weaknesses: Lexical Complexity (0.356)
+
+============================================================
+Note: Scores are balanced (60% mean, 40% max)

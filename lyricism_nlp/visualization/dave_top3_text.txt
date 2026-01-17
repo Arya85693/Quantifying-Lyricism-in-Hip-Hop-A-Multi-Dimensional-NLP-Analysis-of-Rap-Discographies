@@ -1,0 +1,20 @@
+Dave - Top 3 Albums Analysis
+============================================================
+
+Album 1 – We’re All Alone In This Together
+  Composite Score: 0.581
+  Strengths: Semantic Depth (0.847), Emotional Expressiveness (0.707)
+  Weaknesses: Lexical Complexity (0.412)
+
+Album 2 – I Told Them...
+  Composite Score: 0.580
+  Strengths: Rhyme Complexity (0.779), Narrative Structure (0.695)
+  Weaknesses: Lexical Complexity (0.301)
+
+Album 3 – OFA: Deluxe Edition
+  Composite Score: 0.563
+  Strengths: Emotional Expressiveness (0.667), Narrative Structure (0.656)
+  Weaknesses: Lexical Complexity (0.400)
+
+============================================================
+Note: Scores are balanced (60% mean, 40% max)
