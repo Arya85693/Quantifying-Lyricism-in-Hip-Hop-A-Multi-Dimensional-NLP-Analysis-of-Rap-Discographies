@@ -1,0 +1,20 @@
+Lil Wayne - Top 3 Albums Analysis
+============================================================
+
+Album 1 – The Vault (Vinyl)
+  Composite Score: 0.746
+  Strengths: Emotional Expressiveness (0.954), Semantic Depth (0.836)
+  Weaknesses: Lexical Complexity (0.437)
+
+Album 2 – SQ7
+  Composite Score: 0.686
+  Strengths: Semantic Depth (0.872), Emotional Expressiveness (0.846)
+  Weaknesses: Lexical Complexity (0.289)
+
+Album 3 – Father of Asahd
+  Composite Score: 0.665
+  Strengths: Emotional Expressiveness (0.821), Rhyme Complexity (0.776)
+  Weaknesses: Lexical Complexity (0.301)
+
+============================================================
+Note: Scores are balanced (60% mean, 40% max)
