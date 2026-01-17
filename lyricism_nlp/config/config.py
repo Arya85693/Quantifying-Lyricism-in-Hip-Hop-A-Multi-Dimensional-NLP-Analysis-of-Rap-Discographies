@@ -3,7 +3,7 @@ Configuration file for lyricism NLP analysis project.
 """
 
 # Genius API Configuration
-GENIUS_API_TOKEN = "9dMDdRVetRmesg_HtQs81QB_SVoysc2uxrF24tFAngw_WkJh8t85_2i7MbE2cpm5"
+GENIUS_API_TOKEN = "GENERATE YOUR OWN GENIUS API - withheld mine for security reasons"
 GENIUS_API_BASE_URL = "https://api.genius.com"
 GENIUS_RATE_LIMIT_PER_MINUTE = 60
 
@@ -32,3 +32,4 @@ AGGREGATION_WEIGHTS = {
     "narrative_structure": 0.15,
     "emotional_expressiveness": 0.20,
 }
+
